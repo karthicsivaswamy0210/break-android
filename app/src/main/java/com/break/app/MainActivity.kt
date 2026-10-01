@@ -1,4 +1,4 @@
-package com.break.app
+package com.breakapp
 
 import android.Manifest
 import android.os.Build
