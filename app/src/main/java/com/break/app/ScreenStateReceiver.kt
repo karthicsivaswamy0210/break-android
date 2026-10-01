@@ -1,4 +1,4 @@
-package com.break.app
+package com.breakapp
 
 import android.content.BroadcastReceiver
 import android.content.Context
